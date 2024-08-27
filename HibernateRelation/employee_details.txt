@@ -1,0 +1,8 @@
+1,GiridharNaidu,67000.90,sse
+2,SreedharNaidu,55000.90,se
+3,Sai,56000.90,dev
+4,Vinay,600.90,tester
+5,vijay,90000.90,se
+6,srujan,89000.90,javadev
+7,lakshman,68000.90,businessAnalyst
+8,nivedhaThomas,8965,actress
